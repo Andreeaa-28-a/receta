@@ -1,2 +1,2 @@
-# receta
-Los ingredientes y instrucciones
+# Receta guacamole
+Utilizada para aprender git
